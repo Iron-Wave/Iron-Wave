@@ -35,5 +35,6 @@
         text-align: center;
     }
 </style>
-<p style="color: white;">//Iron Wave</p>
+<div class="main">
+	<p style="color: white;">//Iron Wave</p>
 </div>
