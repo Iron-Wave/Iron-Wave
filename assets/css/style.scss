@@ -5,7 +5,9 @@
 
 header {
   display: none;
+  content: none;
 }
 .flexbox:before, .flexbox:after  {
   content: none;
+  display: none;
 }
