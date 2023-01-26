@@ -7,19 +7,19 @@
     body {
     	text-align: center;
         justify-content: center;
-        background-color: black;
+        background-color: #121212;
     }
     .btn {
         cursor: pointer;
         box-shadow: SteelBlue 0px 0px 3px 3px;
-        background-color: black;
+        background-color: #121212;
         border-radius: 20px;
         height: 23.75%;
         width: 95%;
     }
     .btn:hover {
         box-shadow: SteelBlue 0px 0px 5px 5px;
-        background-color: black;
+        background-color: #121212;
         border-radius: 20px;
         height: 25%;
         width: 100%;
@@ -27,7 +27,7 @@
     .main {
     	width: 500; 
         height: 500; 
-        background-color: black; 
+        background-color: #121212; 
         border-radius: 10px; 
         box-shadow: SteelBlue 0px 0px 3px 3px; 
         padding: 30px; 
