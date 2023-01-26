@@ -1,12 +1,15 @@
 <html>
 <body>
 <style>
-	body {
+    header {
+	display: none;
+    }
+    body {
     	text-align: center;
         justify-content: center;
         background-color: black;
     }
-	.btn {
+    .btn {
         cursor: pointer;
         box-shadow: SteelBlue 0px 0px 3px 3px;
         background-color: black;
@@ -32,6 +35,5 @@
         text-align: center;
     }
 </style>
-<div class="main">
-	<img title="Games" class="btn" onclick="location.href='https://thingy937.github.io/Snake-game-/'" src="https://raw.githubusercontent.com/thingy937/thingy937.github.io/master/cooltext423593656462113.png">
+<p style="color: white;">//Iron Wave</p>
 </div>
