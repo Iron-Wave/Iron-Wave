@@ -1,6 +1,9 @@
 <html>
 <head>
-<img style="background-color: black; box-shaodw: black 0px 0px 5px 5px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+<title>Iron Wave</title>
+<div style="text-align: center; background-color: black; width: 1000px; height: 250px; box-shadow: black 0px 0px 10px 10px">
+	<img style="box-shadow: black 0px 0px 5px 5px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+</div>
 </head>
 <body>
 <style>
