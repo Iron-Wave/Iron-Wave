@@ -1,4 +1,7 @@
 <html>
+<head>
+<img style="background-color: black; box-shaodw: black 0px 0px 5px 5px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+</head>
 <body>
 <style>
     header {
