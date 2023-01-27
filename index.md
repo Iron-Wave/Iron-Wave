@@ -8,6 +8,7 @@
 <body>
 <style>
 	html {
+		text-align: center;
 		background-color: #424549;
 	}
 	body {
@@ -37,10 +38,10 @@
 		height: 500;
 		background-color: #1e2124;
 		box-shadow: SteelBlue 0px 0px 3px 3px; 
-        padding-top: 10px;
-        margin-top: 50px;
+        	padding-top: 10px;
+        	margin-top: 50px;
 		margin-left: 50px;
-        margin-right: 50px;
+        	margin-right: 50px;
 		text-align: center;
 	}
 </style>
