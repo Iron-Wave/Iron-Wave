@@ -2,16 +2,14 @@
 <head>
 <title>Iron Wave</title>
 <div style="text-align: center; background-color: black; width: 1000px; height: 250px; box-shadow: black 0px 0px 10px 10px">
-	<img style="box-shadow: black 0px 0px 5px 5px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+	<img style="background-color: black;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
 </div>
 </head>
 <body>
 <style>
-    header {
-	display: none;
-    }
     body {
-    	text-align: center;
+				padding: 0px;
+				text-align: center;
         justify-content: center;
         background-color: #121212;
     }
@@ -31,7 +29,7 @@
         width: 100%;
     }
     .main {
-    	width: 500; 
+    		width: 500; 
         height: 500; 
         background-color: #121212; 
         border-radius: 10px; 
