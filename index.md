@@ -1,20 +1,23 @@
 <html>
 <head>
 <title>Iron Wave</title>
-<div style="text-align: center; background-color: #1e2124; width: 1200px; height: 250px; box-shadow: steelblue 0px 0px 3px 3px;">
+<div style="align: center; background-color: #1e2124; width: 1200px; height: 250px; box-shadow: steelblue 0px 0px 3px 3px;">
 	<img style="background-color: #1e2124;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
 </div>
 </head>
 <body>
 <style>
 	html {
-		text-align: center;
+		align: center;
 		background-color: #424549;
+	}
+	head {
+		align: center;
 	}
 	body {
 		height: 800px;
 		width: 1200px;
-		text-align: center;
+		align: center;
 		justify-content: center;
 		background-color: #424549;
 	}
@@ -42,7 +45,7 @@
         	margin-top: 50px;
 		margin-left: 50px;
         	margin-right: 50px;
-		text-align: center;
+		align: center;
 	}
 </style>
 <div class="main">
