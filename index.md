@@ -21,24 +21,17 @@
 	}
 	.btn {
 		cursor: pointer;
-		box-shadow: SteelBlue 0px 0px 3px 3px;
 		background-color: #1e2124;
 		border-radius: 10px;
-		height: 23.75%;
-		width: 95%;
 	}
 	.btn:hover {
-		box-shadow: SteelBlue 0px 0px 5px 5px;
 		background-color: darkgray;
 		border-radius: 5px;
-		height: 25%;
-		width: 100%;
 	}
   	.main {
 		width: 1100;
 		height: 500;
 		background-color: #1e2124;
-		box-shadow: SteelBlue 0px 0px 3px 3px; 
         	padding-top: 10px;
         	margin-top: 50px;
 		margin-left: 50px;
