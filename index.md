@@ -30,7 +30,7 @@
 	.btn:hover {
 		box-shadow: SteelBlue 0px 0px 5px 5px;
 		background-color: #1e2124;
-		border-radius: 20px;
+		border-radius: 10px;
 		height: 25%;
 		width: 100%;
 	}
