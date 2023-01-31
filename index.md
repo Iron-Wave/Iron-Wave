@@ -11,7 +11,7 @@
 	}
 	.sidebar {
 		height: 5000px;
-		width: 180px;
+		width: 240px;
 		position: fixed;
 		background-color: steelblue;
 		text-align: center;
@@ -23,14 +23,14 @@
 		cursor: pointer;
 		box-shadow: SteelBlue 0px 0px 3px 3px;
 		background-color: #1e2124;
-		border-radius: 20px;
+		border-radius: 10px;
 		height: 23.75%;
 		width: 95%;
 	}
 	.btn:hover {
 		box-shadow: SteelBlue 0px 0px 5px 5px;
-		background-color: #1e2124;
-		border-radius: 10px;
+		background-color: darkgray;
+		border-radius: 5px;
 		height: 25%;
 		width: 100%;
 	}
@@ -47,17 +47,17 @@
 	}
 </style>
 <div class="sidebar">
-<img class="btn" title="home" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+<img class="btn" title="Home" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
 <p>&nbsp;</p>
-<img class="btn" title="Asteroid Rush" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/asteroid-rush-logo.png?raw=true">
-<img class="btn" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/crappy-bird-logo.png?raw=true">
-<img class="btn" title="Gun Game" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/gun-game-logo.png?raw=true">
-<img class="btn" title="Ping Pong" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/ping-pong-logo.png?raw=true">
-<img class="btn" title="Snake" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/snake-logo.png?raw=true">
+<img class="btn" title="Asteroid Rush" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/asteroid-rush-logo.png?raw=true">
+<img class="btn" title="Crappy Bird" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/crappy-bird-logo.png?raw=true">
+<img class="btn" title="Gun Game" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/gun-game-logo.png?raw=true">
+<img class="btn" title="Ping Pong" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/ping-pong-logo.png?raw=true">
+<img class="btn" title="Snake" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/snake-logo.png?raw=true">
 </div>
 <div class="body-text">
-<h1>Heading</h1>
-<p>Text</p>
+<h1>Iron Wave</h1>
+<p>Site is currently under construction.</p>
 </div>
 </body>
 </html>
