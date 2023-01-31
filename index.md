@@ -1,7 +1,6 @@
 <html>
 <head>
 <title>Iron Wave</title>
-</div>
 </head>
 <body>
 <style>
@@ -48,8 +47,13 @@
 	}
 </style>
 <div class="sidebar">
-<img class="btn" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
-
+<img class="btn" title="home" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+<p>&nbsp;</p>
+<img class="btn" title="Asteroid Rush" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/asteroid-rush-logo.png?raw=true">
+<img class="btn" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/crappy-bird-logo.png?raw=true">
+<img class="btn" title="Gun Game" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/gun-game-logo.png?raw=true">
+<img class="btn" title="Ping Pong" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/ping-pong-logo.png?raw=true">
+<img class="btn" title="Snake" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/snake-logo.png?raw=true">
 </div>
 <div class="body-text">
 <h1>Heading</h1>
