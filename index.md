@@ -21,7 +21,7 @@
 	}
 	.btn {
 		cursor: pointer;
-		background-color: black;
+		background-color: #1e2124;
 		border-radius: 10px;
 		padding: 10px;
 	}
@@ -42,13 +42,13 @@
 	}
 </style>
 <div class="sidebar">
-<img class="btn" title="Home" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
+<img title="Home" style="height: 37.5px; width: 180;" src="https://github.com/Iron-Wave/Storage/blob/main/images/Iron-wave-logo.png?raw=true">
 <p>&nbsp;</p>
-<img class="btn" title="Asteroid Rush" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/asteroid-rush-logo.png?raw=true">
-<img class="btn" title="Crappy Bird" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/crappy-bird-logo.png?raw=true">
-<img class="btn" title="Gun Game" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/gun-game-logo.png?raw=true">
-<img class="btn" title="Ping Pong" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/ping-pong-logo.png?raw=true">
-<img class="btn" title="Snake" style="height: 50px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/snake-logo.png?raw=true">
+<img class="btn" title="Asteroid Rush" style="height: 37.5px; width: 18px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/asteroid-rush-logo.png?raw=true">
+<img class="btn" title="Crappy Bird" style="height: 37.5px; width: 240px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/crappy-bird-logo.png?raw=true">
+<img class="btn" title="Gun Game" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/gun-game-logo.png?raw=true">
+<img class="btn" title="Ping Pong" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/ping-pong-logo.png?raw=true">
+<img class="btn" title="Snake" style="height: 37.5px; width: 180px;" src="https://github.com/Iron-Wave/Storage/blob/main/images/game-logos/snake-logo.png?raw=true">
 </div>
 <div class="body-text">
 <h1>Iron Wave</h1>
