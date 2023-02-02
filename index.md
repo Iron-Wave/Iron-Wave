@@ -59,6 +59,7 @@
 <div class="body-text">
 <h1>Iron Wave</h1>
 <p>Site is currently under construction.</p>
+<a href="https://github.com/Iron-Wave/home">
 </div>
 </body>
 </html>
