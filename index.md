@@ -21,12 +21,14 @@
 	}
 	.btn {
 		cursor: pointer;
-		background-color: #1e2124;
+		background-color: black;
 		border-radius: 10px;
+		padding: 10px;
 	}
 	.btn:hover {
 		background-color: darkgray;
 		border-radius: 5px;
+		padding: 10px;
 	}
   	.main {
 		width: 1100;
