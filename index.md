@@ -18,17 +18,17 @@
 		top: 0;
 		left: 0;
 	}
-    .sidebar-logo {
-    	background-color: #1e2124;
-        width: 240px;
-    }
+    	.sidebar-logo {
+    		background-color: lightsteelblue;
+        	width: 240px;
+    	}
 	.btn {
 		cursor: pointer;
 		background-color: #1e2124;
 		border-radius: 20px;
 		padding: 10px;
-        height: 37.5px;
-        width: 180xpx;
+        	height: 37.5px;
+        	width: 180xpx;
 	}
 	.btn:hover {
 		background-color: darkgray;
